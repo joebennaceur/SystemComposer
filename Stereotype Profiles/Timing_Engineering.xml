@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/systemcomposer_property/R2020a">
+  <systemcomposer.property.UnitQueryClientWrapper type="systemcomposer.property.UnitQueryClientWrapper" uuid="084aa668-8307-4313-8d1a-b1b6e8f58bf9"/>
+  <systemcomposer.internal.ModelIdentifier type="systemcomposer.internal.ModelIdentifier" uuid="00ce65ec-2d6d-4ed5-b288-085c9d1f507f">
+    <URI>Timing_Engineering</URI>
+    <modelType>PROFILE_MODEL</modelType>
+  </systemcomposer.internal.ModelIdentifier>
+  <systemcomposer.profile.Profile type="systemcomposer.profile.Profile" uuid="a041aaea-c97c-4d78-808c-40a6deb384a0">
+    <valueTypes type="systemcomposer.property.BooleanType" uuid="4f589721-01f1-43bc-a81f-c1225e98cff0">
+      <p_Name>boolean</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.FloatType" uuid="e26df0a9-22dc-4f76-bc1b-0ac901e689df">
+      <max>1.7976931348623157e+308</max>
+      <min>-1.7976931348623157e+308</min>
+      <p_Name>double</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="37ebe32f-f327-4524-8fe1-71ab6eaaac0e">
+      <max>32767</max>
+      <min>-32768</min>
+      <p_Name>int16</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="1a4e8f1b-9b7e-4939-97aa-97481f3f0836">
+      <max>2147483647</max>
+      <min>-2147483648</min>
+      <p_Name>int32</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="c1a3069f-b36c-4d62-a30c-a1efeea048a8">
+      <max>9223372036854775807</max>
+      <min>-9223372036854775808</min>
+      <p_Name>int64</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="7be0187e-dcac-4ce4-aa84-8dbfa2abb9f6">
+      <max>127</max>
+      <min>-128</min>
+      <p_Name>int8</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.FloatType" uuid="efcd35f0-e0a5-4919-ac64-f64c3ddd4314">
+      <max>3.4028234663852886e+38</max>
+      <min>-3.4028234663852886e+38</min>
+      <p_Name>single</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.StringType" uuid="000a556f-1a38-4db8-a264-a386244bb644">
+      <p_Name>string</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.StringArrayType" uuid="12767498-bf81-4172-8ca9-f5e0638cf3a0">
+      <p_Name>stringArray</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="6cb72ce8-dc6d-41cd-b0f1-7bbaba9c517a">
+      <max>65535</max>
+      <min>0</min>
+      <p_Name>uint16</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="582d670b-7b2c-4822-8930-73e922c2b1e8">
+      <max>4294967295</max>
+      <min>0</min>
+      <p_Name>uint32</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="c2059356-c981-439e-abc9-bffc9fe0c2ff">
+      <max>9223372036854775807</max>
+      <min>0</min>
+      <p_Name>uint64</p_Name>
+    </valueTypes>
+    <valueTypes type="systemcomposer.property.IntegerType" uuid="5e9728bd-8efc-43d1-bd82-1a9000e51371">
+      <max>255</max>
+      <min>0</min>
+      <p_Name>uint8</p_Name>
+    </valueTypes>
+    <p_Name>Timing_Engineering</p_Name>
+    <elemProxy type="systemcomposer.internal.proxy.ProxyTarget" uuid="21e06a3b-8c95-4a45-b2a1-e084b22bad6e"/>
+  </systemcomposer.profile.Profile>
+</MF0>
